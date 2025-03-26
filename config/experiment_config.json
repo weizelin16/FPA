@@ -1,0 +1,11 @@
+{
+    "persistent_filter": {
+        "module": "algorithms.persistent_filter.on_off_sketch_filter",
+        "class": "OnOffSketchFilter"
+    },
+    "frequent_itemset": {
+        "module": "algorithms.frequent_itemset.algorithm1",
+        "class": "Algorithm1"
+    }
+}
+
